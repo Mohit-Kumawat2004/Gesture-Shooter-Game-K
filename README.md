@@ -45,9 +45,6 @@ This game uses **MediaPipe Hands** for real-time hand tracking and **OpenCV** fo
 
 ## 🎨 Screenshots
 
-![Gameplay Screenshot](./screenshots/gameplay.png)  
-*Cool colored bullets and aim marker with score UI*
-
 ---
 
 ## 💡 Possible Improvements
